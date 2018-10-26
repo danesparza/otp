@@ -21,9 +21,9 @@ import (
 	"testing"
 	"time"
 
+	"github.com/danesparza/otp"
+	"github.com/danesparza/otp/totp"
 	"github.com/gokyle/twofactor"
-	"github.com/pquerna/otp"
-	"github.com/pquerna/otp/totp"
 	"github.com/stretchr/testify/require"
 )
 

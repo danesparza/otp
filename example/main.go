@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/pquerna/otp"
-	"github.com/pquerna/otp/totp"
+	"github.com/danesparza/otp"
+	"github.com/danesparza/otp/totp"
 
 	"bufio"
 	"bytes"

@@ -20,8 +20,8 @@ package totp
 import (
 	"strings"
 
-	"github.com/pquerna/otp"
-	"github.com/pquerna/otp/hotp"
+	"github.com/danesparza/otp"
+	"github.com/danesparza/otp/hotp"
 
 	"crypto/rand"
 	"encoding/base32"

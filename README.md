@@ -53,7 +53,7 @@ https://help.github.com/articles/downloading-your-two-factor-authentication-reco
 
 ## Improvements, bugs, adding feature, etc:
 
-Please [open issues in Github](https://github.com/pquerna/otp/issues) for ideas, bugs, and general thoughts.  Pull requests are of course preferred :)
+Please [open issues in Github](https://github.com/danesparza/otp/issues) for ideas, bugs, and general thoughts.  Pull requests are of course preferred :)
 
 ## License
 
